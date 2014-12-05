@@ -1,0 +1,54 @@
+Tyler Garrett
+
+San Francisco, CA
+tyler@tgrrtt.com
+661.803.4855
+
+linkedin.com/in/tgrrtt
+github.com/tgrrtt
+blog.tgrrtt.com
+
+TECHNICAL SKILLS:
+
+Javascript, Angular, Node, Express, Git,  jQuery, HTML/Jade, CSS/Less, Mocha + Chai, Jasmine, Gulp, Grunt, Shell Scripting, Travis-CI / Continuous Integration + Deployment, VIM, Backbone, SQL & NoSQL
+
+PROFESSIONAL EXPERIENCE:
+
+Yo  -  Software Engineer (Contract)  - 2014                                                                                                                        
+Allows users to quickly and effortlessly send a notification with a link
+* Developed the official Chrome extension for Yo, which was a #1 Social Networking application
+* Used Backbone.js, jQuery, and Less to re-create the native mobile app  experience
+
+Starfall Group LLC - Software Engineer, Designer & Co-Founder  - 2013 - 2014                                                                                    
+Boosted models’ web presence by creating a hosted landing page solution
+* Designed and built  a clean and responsive user interface with Less/CSS and Jade/HTML
+* Architected routing logic to serve content and interact with a postgres database
+
+RECENT PROJECTS:
+
+RegExpress - DevOps & Software Engineer  - 2014                                                                                                         
+Quickly and intuitively create regexes using  a visual, drag and drop interface
+* Rapidly increased release cycle iteration by using Travis-CI to deploy to production & test servers
+* Implemented logic to modify the regex tree data structure underlying the visual interface
+* Created a dynamic user experience by leveraging Angular’s two-way data binding
+
+gifchat - DevOps &  Software Engineer  - 2014                                                                                                               
+A chat application that takes your words and turns into a related gif
+* Leveraged the Firebase API to create a seamless, real-time chat experience
+* Increased application speed and performance up to 200% by caching Giphy API results
+* Used GitHub webhooks to continuously deploy to production and test servers
+
+slush-react-fullstack generator  - Software Engineer   -  2014
+A CLI application that is used to generate full-stack React apps, utilizing Slush, Gulp, Backbone, and Koa
+* Extended functionality by refactoring the CLI to handle three times as many build options
+
+EDUCATION:
+
+Hack Reactor
+Advanced Software Engineering Immersive  -  2014                                                                               
+University of California, Irvine
+BA in Psychology, Cum Laude  - 2009 - 2011               
+                                             
+ADDITIONAL INFORMATION:
+
+I’m interested in  micro-social-networks, headphones & audio gear, mechanical keyboards, text editors, devops, and anything terminal-related. I’m also an avid music collector, motorcycle enthusiast, and traveller.
